@@ -1,3 +1,8 @@
+##
+I had to refer to the videos several times to complete the exercises. But overall it did seem pretty seamless. The only issue I kept running into was not being able to create components in the terminal. Each time I had to add the folders manually. I plan to speak with the coaches about this.
+
+
+
 # AngularBasicsExercises
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.3.
