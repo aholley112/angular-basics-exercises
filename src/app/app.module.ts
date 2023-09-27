@@ -6,11 +6,13 @@ import { AppComponent } from './app.component';
 import { ProfileComponent } from 'src/app/profile/profile.component';
 import { CounterComponent } from './counter/counter.component';
 
+
 @NgModule({
   declarations: [
     AppComponent,
     ProfileComponent,
-    CounterComponent
+    CounterComponent,
+
   ],
   imports: [
     BrowserModule,
